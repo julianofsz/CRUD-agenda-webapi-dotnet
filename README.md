@@ -1,6 +1,6 @@
 # Agenda Web API
 
-Este é o primeiro projeto de Web API do Juliano, desenvolvido para gerenciar registros de uma agenda de contatos. A API foi construída com .NET e utiliza SQL Server como banco de dados, junto com o Entity Framework para manipulação dos dados.
+Web API desenvolvido para gerenciar registros de uma agenda de contatos. A API foi construída com .NET e utiliza SQL Server como banco de dados, junto com o Entity Framework para manipulação dos dados.
 
 ## Funcionalidades
 
